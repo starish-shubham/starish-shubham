@@ -1,7 +1,8 @@
+![logo](https://raw.githubusercontent.com/starish-shubham/starish-shubham/refs/heads/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-like-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-thumb-up-favorite-pack-design-development-icons-7322313.mp4"></img>
+<img align="right" alt="coding" width="400" src="./coding-gif.mp4"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starish-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="starish-shubham" /> </p>
 
